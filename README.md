@@ -1,4 +1,4 @@
-# mrbangi(https://telegram.me/mrbangi) 
+# mrbangi(https://telegram.me) 
 **An Edited Bot Based On [Tele seed](http://github.com/SeedTeam/teleseed) Plugins and Added new and Usefull Plugins to it 
 # Features
 
